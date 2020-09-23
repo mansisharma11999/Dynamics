@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008369149689",
+    "firebase_url": "https://dynamics-3d960.firebaseio.com",
+    "project_id": "dynamics-3d960",
+    "storage_bucket": "dynamics-3d960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008369149689:android:4df648a75beddcfea3e428",
+        "android_client_info": {
+          "package_name": "com.example.dynamics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008369149689-jgcm96k7cac1h5eav3pa42dphgs82g7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIjh4jJGfFUSlEW2VD_ZKrPs2lKTt0o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008369149689-jgcm96k7cac1h5eav3pa42dphgs82g7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

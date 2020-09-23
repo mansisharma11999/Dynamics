@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/quiz"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="35dp"
+        android:text="USER REGISTERATION"
+        android:id="@+id/textview"
+        android:textStyle="bold"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:id="@+id/edittextemail"
+        android:hint="Enter email"
+        android:inputType="textEmailAddress"
+        android:textColor="#ffff"
+        android:textColorHint="#ffff"
+        android:textSize="30dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:id="@+id/editpassword"
+        android:hint="Enter password"
+        android:inputType="textPassword"
+        android:textColor="#ffff"
+        android:textColorHint="#ffff"
+        android:textSize="30dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonsignup"
+        android:layout_margin="15dp"
+        android:text="Sign up"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:id="@+id/textviewsignin"
+        android:text="Already have an account"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="#ffff"
+        android:textSize="30dp"
+        />
+
+</LinearLayout>
+
+
